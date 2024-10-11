@@ -1,6 +1,6 @@
-# test
+# Todolist
 
-This template should help get you started developing with Vue 3 in Vite.
+Projet todolist pour apprendre les bases de Vue.js 
 
 ## Recommended IDE Setup
 
